@@ -1,9 +1,30 @@
-👋 Hello, I'm Abdul Raza
-👀 My passion lies in coding and software development.
-🌱 I currently hold the role of a software engineer.
-💞️ I'm open to collaboration opportunities.
-📫 You can contact me at twitter @imabdulraza
-<!---
-imabdulraza/about is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm Abdul Raza
+
+💻 Software Engineer
+I’m a passionate software engineer who enjoys building scalable, high-performance web applications. I focus on writing clean, maintainable code and continuously improving my technical and problem-solving skills.
+
+🚀 About Me
+👨‍💻 Currently working as a Software Engineer
+🌱 Actively learning advanced system design & modern web technologies
+🧠 Strong interest in Full Stack Development
+🤝 Open to collaboration on innovative and impactful projects
+🎯 Preparing for global opportunities in product-based companies
+
+🛠 Technical Expertise
+Frontend:
+React.js • TypeScript • JavaScript (ES6+) • HTML5 • CSS3 • Bootstrap
+Backend:
+.NET Core • ASP.NET Web API • RESTful Services • Basic Spring Boot
+Database:
+SQL Server • PostgreSQL • MongoDB
+Tools & Practices:
+Git • GitHub • Postman • Docker (Basics) • Clean Architecture • Role-Based Access • API Integration
+
+📈 What I Value
+Clean Architecture
+Performance Optimization
+Scalable System Design
+Continuous Learning
+
+📫 Connect With Me
+🐦 Twitter: @imabdulraza
