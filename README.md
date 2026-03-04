@@ -1,5 +1,3 @@
----
-
 # Hi, I'm Abdul Raza
 
 **Full Stack Developer**
